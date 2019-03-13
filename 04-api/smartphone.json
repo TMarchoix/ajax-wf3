@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "model": "iPhone XS",
+        "price": "1500"
+    },
+    {
+        "id": 2,
+        "brand": "Apple",
+        "model": "iPhone XS",
+        "price": "1500"
+    }
+]
